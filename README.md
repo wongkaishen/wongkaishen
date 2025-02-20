@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm WONG KAI SHEN</h1>
 <h3 align="center">A passionate guy who trying to get good at coding</h3>
 <h3 align="center">🔭 I’m currently working on AI Agent Eliza</h3>
-<h3 align="center">🌱 I’m currently learning javascripts and how to sleep</h3>
+<h3 align="center">🌱 I’m currently learning javascripts </h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wongkaishen&label=Profile%20views&color=0e75b6&style=flat" alt="wongkaishen" /> </p>
