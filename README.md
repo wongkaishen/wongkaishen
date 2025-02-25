@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm WONG KAI SHEN</h1>
-<h3 align="center">A passionate guy who trying to get good at coding</h3>
+<h3 align="center">A passionate guy who is trying to get good at coding</h3>
 <h3 align="center">🔭 I’m currently working on AI Agent Eliza</h3>
 <h3 align="center">🌱 I’m currently learning javascripts </h3>
 
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wongkaishen&label=Profile%20views&color=0e75b6&style=flat" alt="wongkaishen" /> </p>
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wongkaishen&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="wongkaishen" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wongkaishen&show_icons=true&theme=react&hide=issues" alt="wongkaishen" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wongkaishen&theme=react&layout=pie" alt="wongkaishen" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wongkaishen&theme=react" alt="wongkaishen" /></p>
 
 ## Tech Stack:
@@ -23,7 +21,10 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask&logoColor=fff)
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 
 
