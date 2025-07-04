@@ -32,7 +32,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/wong kai shen" target="blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff" alt="wong kai shen" /></a>
 <a href="https://instagram.com/micheal_wong_03" target="blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="micheal_wong_03" /></a>
-<a href="https://instagram.com/micheal_wong_03" target="blank"><img src="https://img.shields.io/badge/Xiaohongshu-FF2442?style=for-the-badge&logo=Xiaohongshu&logoColor=FFFFFF" alt="micheal_wong_03" /></a>
+<a href="https://www.xiaohongshu.com/user/profile/617e4046000000000201e0fc" target="blank"><img src="https://img.shields.io/badge/Xiaohongshu-FF2442?style=for-the-badge&logo=Xiaohongshu&logoColor=FFFFFF" alt="micheal_wong_03" /></a>
 
   
 </p>
