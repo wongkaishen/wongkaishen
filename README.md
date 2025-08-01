@@ -9,7 +9,7 @@
 
 ## 🌱 About Me
 - 🔭 I’m currently working on **personal side projects**  
-- 🌱 I’m currently learning **JavaScript, GSAP, Three.js**  
+- 🌱 I’m currently learning **Sanity.io, GSAP, Three.js**  
 - 💬 Ask me about **MERN Stack, Python, Django, Node.js, and more!**  
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/wong%20kai%20shen/)**  
 - ⚡ Fun fact: I love building things from scratch and experimenting with interactive UI!
