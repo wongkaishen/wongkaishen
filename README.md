@@ -42,6 +42,38 @@
 
 ---
 
+### 🏆 Featured Projects
+
+#### 📑 RAG-Based Document Intelligence (Stealth)
+> *An intelligent document processing engine utilizing **PostgreSQL (PGVector)** for high-speed semantic search and LLM context retrieval.*
+> 
+> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+>
+> ![AWS SageMaker](https://img.shields.io/badge/AWS_SageMaker-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+>
+> ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![PGVector](https://img.shields.io/badge/PGVector-316192?style=flat-square&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+#### 🚨 [SmartEAS - Emergency Alerts System](https://github.com/wongkaishen/SmartEAS---Emergency-Alerts-System)
+> *A real-time safety response platform leveraging Cloud-Native Architecture and Generative AI for critical alerts.*
+>
+> ![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white) ![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![AWS DynamoDB](https://img.shields.io/badge/AWS_DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
+>
+> ![MCP](https://img.shields.io/badge/Model_Context_Protocol-000000?style=flat-square) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+
+#### 🤖 AI Smart Keyboard Assistant
+> *A custom **Flutter** keyboard that analyzes your conversation in real-time. It features **conversation memory** and uses **Gemini** to suggest intelligent, context-aware replies instantly.*
+>
+> ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white) ![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=google&logoColor=white)
+
+#### 🍔 [FoodPicker](https://github.com/wongkaishen/Foodpicker)
+> *A solution for the indecisive! A cross-platform app that randomly selects meals based on user preferences and location data to solve the "What to eat?" dilemma.*
+>
+> ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+>
+> ![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=flat-square&logo=google-maps&logoColor=white) ![OpenStreetMap](https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=flat-square&logo=openstreetmap&logoColor=white) ![Nominatim](https://img.shields.io/badge/Nominatim_API-000000?style=flat-square&logo=map&logoColor=white)
+
+---
+
 ### 🛠️ The Arsenal
 
 <details>
