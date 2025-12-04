@@ -44,15 +44,6 @@
 
 ### 🏆 Featured Projects
 
-#### 📑 RAG-Based Document Intelligence (Stealth)
-> *An intelligent document processing engine utilizing **PostgreSQL (PGVector)** for high-speed semantic search and LLM context retrieval.*
-> 
-> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
->
-> ![AWS SageMaker](https://img.shields.io/badge/AWS_SageMaker-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
->
-> ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![PGVector](https://img.shields.io/badge/PGVector-316192?style=flat-square&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
 #### 🚨 [SmartEAS - Emergency Alerts System](https://github.com/wongkaishen/SmartEAS---Emergency-Alerts-System)
 > *A real-time safety response platform leveraging Cloud-Native Architecture and Generative AI for critical alerts.*
 >
