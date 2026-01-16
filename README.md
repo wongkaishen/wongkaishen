@@ -25,18 +25,20 @@
 
 ---
 
-### 🔥 Latest Updates
+### 🔥 Latest Updates (Jan 2026)
 > *Watch this space! I am currently:*
-- 🧠 **Deep Diving:** Implementing **PGVector** with PostgreSQL for semantic search optimization.
-- 🏗️ **Building:** A custom **RAG-based Document Intelligence Tool** (MVP coming soon).
-- ☁️ **Deploying:** Experimenting with serverless AI deployment on **AWS SAGEMAKER**.
+- 🧠 **Deep Diving:** Architecting a scalable vector store layer within PostgreSQL
+- 🏗️ **Building:** A custom **RAG-based Document Intelligence Tool**.
+- ☁️ **Deploying:** Serverless deployments on **AWS SageMaker**.        
 
 ---
 
 ### 🧐 About Me
 
+- 🚀 Full Stack AI Engineer | Frontend Developer | SaaS Builder
+- 🧠 Obsessed with Model Context Protocol (MCP) & Smarter Agents
 - 🔭 **Current Focus:** Engineering advanced **RAG Pipelines** and implementing the **Model Context Protocol (MCP)** for smarter AI agents.
-- 🌱 **Learning & Experimenting:** Fine-tuning and deploying Open Source models from **Hugging Face** to **AWS** and **GCP Vertex AI**.
+- 🌱 **Learning & Experimenting:** Fine-tuning and deploying Open Source models from **Hugging Face** to **AWS**.
 - 👯 **Looking to collaborate on:** AI Infrastructure projects and Cloud-Native applications.
 - ⚡ **Fun fact:** My "Eureka!" moments always happen when I'm driving or showering. (Yes, we do that!)
 
