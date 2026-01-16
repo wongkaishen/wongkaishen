@@ -121,11 +121,11 @@
 <div align="center">
   <table>
     <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=wongkaishen&show_icons=true&theme=tokyonight&hide=issues&bg_color=00000000&hide_border=true" alt="GitHub Stats" /></td>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wongkaishen&theme=tokyonight&layout=compact&hide_border=true&bg_color=00000000" alt="Top Languages" /></td>
+      <td><img src="https://github-readme-stats-fast.vercel.app/api?username=wongkaishen&show_icons=true&theme=dark" alt="GitHub Stats" /></td>
+      <td><img src="https://github-readme-stats-fast.vercel.app/api/streak?username=wongkaishen&theme=dark" alt="Top Languages" /></td>
     </tr>
   </table>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wongkaishen&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=wongkaishen&layout=compact&theme=dark" alt="GitHub Streak" />
 </div>
 
 <div align="center">
